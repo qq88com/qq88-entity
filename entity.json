@@ -1,9 +1,17 @@
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "QQ88",
+  "entity": "QQ88",
+  "brand_owner": "QQ88",
 
-  "alternateName": [
+  "domains": {
+    "primary": "https://qq88.fun",
+    "secondary": [
+      "https://qq88.cash",
+      "https://qq88.fan"
+    ]
+  },
+
+  "brand_variants": [
     "QQ88",
     "QQ 88",
     "QQ888",
@@ -12,34 +20,20 @@
     "Trang web QQ88",
     "Trang QQ88",
     "QQ88 chính thức",
-    "Nền tảng QQ88",
-    "qq88.fun",
-    "qq88.cash",
-    "qq88.fan"
+    "Nền tảng QQ88"
   ],
 
-  "url": "https://qq88.fun/",
+  "source_of_truth": {
+    "brand_schema": "https://qq88com.github.io/qq88-entity/brand.json",
+    "doi": "https://zenodo.org/records/17812116",
+    "archive": "https://archive.org/details/qq88-brand-entity-fun-cash-fan-2025",
+    "github_repo": "https://github.com/qq88com/qq88-entity"
+  },
 
-  "sameAs": [
-    "https://qq88.fun/",
-    "https://qq88.cash/",
-    "https://qq88.fan/",
-
-    "https://zenodo.org/records/17812116",
-    "https://archive.org/details/qq88-brand-entity-fun-cash-fan-2025",
-    "https://github.com/qq88com/qq88-entity",
-
-    "https://www.scribd.com/document/960227011/QQ88-Ho-So-Thuong-Hieu-Chinh-Thuc",
-    "https://issuu.com/qq88com/docs/entity-reference-file-01",
-    "https://independent.academia.edu/ODRANHDOAN",
-    "https://www.behance.net/gallery/239812161/QQ88-Brand-Reference-Entity-Verification-File"
-  ],
-
-  "publicProfile": [
+  "public_profiles": [
     "https://about.me/qq88.com",
     "https://www.tumblr.com/tigerlanes",
-    "https://www.pinterest.com/qq88com/",
-
+    
     "https://ruddy-taste-35f.notion.site/T-ng-quan-th-ng-hi-u-QQ88-2ab017e0f22e803785e1c885c437b662",
     "https://ruddy-taste-35f.notion.site/L-ch-s-QQ88-2bd017e0f22e80b48c84e8602f406810",
     "https://ruddy-taste-35f.notion.site/S-N-PH-M-D-CH-V-QQ88-2bd017e0f22e80b8ba4ef6a7f92e7c09",
@@ -48,7 +42,18 @@
     "https://ruddy-taste-35f.notion.site/B-o-m-t-Minh-b-ch-QQ88-2bd017e0f22e80f39c30d292175e3efb"
   ],
 
-  "logo": "https://qq88.fun/wp-content/uploads/2024/11/logo-qq88.webp",
+  "proof_documents": [
+    "https://www.scribd.com/document/960227011",
+    "https://issuu.com/qq88com/docs/entity-reference-file-01",
+    "https://independent.academia.edu/ODRANHDOAN",
+    "https://www.behance.net/gallery/239812161/QQ88-Brand-Reference-Entity-Verification-File"
+  ],
 
-  "description": "QQ88 là nền tảng giải trí trực tuyến hoạt động tại khu vực Châu Á, bao gồm hệ thống website chính: qq88.fun, qq88.cash và qq88.fan. Thương hiệu được xác thực qua các hồ sơ học thuật, media archive và tài liệu công khai trên nhiều nền tảng uy tín."
+  "semantic_links": [
+    "brand.json",
+    "entity.json"
+  ],
+
+  "entity_verified": true,
+  "last_update": "2025-12-04"
 }
