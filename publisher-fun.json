@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "QQ88 FUN",
+  "url": "https://qq88.fun",
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "QQ88",
+    "url": "https://qq88.fun",
+    
+    "sameAs": [
+      "https://qq88.fun",
+      "https://qq88.cash",
+      "https://qq88.fan",
+      "https://zenodo.org/records/17812116",
+      "https://archive.org/details/qq88-brand-entity-fun-cash-fan-2025",
+      "https://github.com/qq88com/qq88-entity/brand.json"
+    ]
+  },
+
+  "mainEntityOfPage": "https://qq88.fun",
+
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "fun-domain",
+    "value": "qq88.fun"
+  },
+
+  "isPartOf": {
+    "@type": "Organization",
+    "name": "QQ88 Official Network",
+    "url": "https://qq88.fun"
+  },
+
+  "brandSchema": "https://qq88com.github.io/qq88-entity/brand.json",
+  "entitySchema": "https://qq88com.github.io/qq88-entity/entity.json",
+
+  "lastUpdate": "2025-12-04"
+}
