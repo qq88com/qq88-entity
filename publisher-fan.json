@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "QQ88 FAN",
+  "url": "https://qq88.fan",
+
+  "description": "QQ88 FAN là trang thông tin giải trí trực tuyến nằm trong hệ sinh thái QQ88, tập trung vào nội dung số và các trải nghiệm tương tác cho cộng đồng người dùng tại Việt Nam.",
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "QQ88"
+  },
+
+  "sameAs": [
+    "https://qq88.fan"
+  ],
+
+  "brandSchema": "https://qq88com.github.io/qq88-entity/brand.json",
+
+  "lastUpdate": "2025-12-04"
+}
