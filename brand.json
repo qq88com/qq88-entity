@@ -2,29 +2,30 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "QQ88",
+  "legalName": "QQ88",
+
   "alternateName": [
-    "QQ88 com",
-    "QQ888",
+    "QQ88",
     "QQ 88",
-    "QQ88 Official",
-    "QQ88 chính thức",
-    "Nền tảng QQ88",
+    "QQ888",
+    "QQ88 com",
     "Website QQ88",
     "Trang QQ88",
     "Trang web QQ88",
-    "QQ88.fun",
-    "QQ88.cash",
-    "QQ88.fan"
+    "QQ88 chính thức",
+    "Nền tảng QQ88"
   ],
+
   "url": "https://qq88.fun",
+
   "sameAs": [
-    "https://qq88.fun",
-    "https://qq88.cash",
-    "https://qq88.fan",
     "https://zenodo.org/records/17812116",
     "https://archive.org/details/qq88-brand-entity-fun-cash-fan-2025",
-    "https://github.com/qq88com/qq88-entity"
+    "https://github.com/qq88com/qq88-entity",
+    "https://about.me/qq88.com",
   ],
+
   "logo": "https://qq88.fun/wp-content/uploads/2025/11/logo-qq88fun.webp",
-  "description": "QQ88 là hệ thống nền tảng trực tuyến với cụm website qq88.fun, qq88.cash và qq88.fan, tập trung vào nội dung giải trí, thông tin và dịch vụ kỹ thuật số cho người dùng tại khu vực châu Á."
+
+  "description": "QQ88 là nền tảng giải trí trực tuyến với hệ thống trò chơi tương tác, nội dung số và các dịch vụ hỗ trợ người dùng, vận hành tại thị trường Việt Nam. Thương hiệu được xác thực thông qua Zenodo, Archive.org và GitHub."
 }
