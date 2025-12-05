@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "QQ88 CASH",
+  "url": "https://qq88.cash",
+
+  "description": "QQ88 CASH là nền tảng thuộc hệ sinh thái QQ88, cung cấp nội dung giải trí trực tuyến và các trò chơi tương tác dành cho người dùng tại Việt Nam.",
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "QQ88"
+  },
+
+  "sameAs": [
+    "https://qq88.cash"
+  ],
+
+  "brandSchema": "https://qq88com.github.io/qq88-entity/brand.json",
+
+  "lastUpdate": "2025-12-04"
+}
