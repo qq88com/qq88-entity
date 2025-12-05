@@ -3,25 +3,7 @@
   "entity": "QQ88",
   "brand_owner": "QQ88",
 
-  "domains": {
-    "primary": "https://qq88.fun",
-    "secondary": [
-      "https://qq88.cash",
-      "https://qq88.fan"
-    ]
-  },
-
-  "brand_variants": [
-    "QQ88",
-    "QQ 88",
-    "QQ888",
-    "QQ88 com",
-    "Website QQ88",
-    "Trang web QQ88",
-    "Trang QQ88",
-    "QQ88 chính thức",
-    "Nền tảng QQ88"
-  ],
+  "description": "QQ88 là nền tảng giải trí trực tuyến vận hành tại Việt Nam, cung cấp hệ sinh thái trò chơi tương tác và nội dung số. Các tài liệu thương hiệu được xác thực qua Zenodo, Archive.org và GitHub.",
 
   "source_of_truth": {
     "brand_schema": "https://qq88com.github.io/qq88-entity/brand.json",
@@ -33,7 +15,6 @@
   "public_profiles": [
     "https://about.me/qq88.com",
     "https://www.tumblr.com/tigerlanes",
-    
     "https://ruddy-taste-35f.notion.site/T-ng-quan-th-ng-hi-u-QQ88-2ab017e0f22e803785e1c885c437b662",
     "https://ruddy-taste-35f.notion.site/L-ch-s-QQ88-2bd017e0f22e80b48c84e8602f406810",
     "https://ruddy-taste-35f.notion.site/S-N-PH-M-D-CH-V-QQ88-2bd017e0f22e80b8ba4ef6a7f92e7c09",
@@ -47,11 +28,6 @@
     "https://issuu.com/qq88com/docs/entity-reference-file-01",
     "https://independent.academia.edu/ODRANHDOAN",
     "https://www.behance.net/gallery/239812161/QQ88-Brand-Reference-Entity-Verification-File"
-  ],
-
-  "semantic_links": [
-    "brand.json",
-    "entity.json"
   ],
 
   "entity_verified": true,
