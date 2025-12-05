@@ -4,18 +4,18 @@
   "name": "QQ88 FUN",
   "url": "https://qq88.fun",
 
+  "description": "QQ88 FUN là nền tảng giải trí trực tuyến thuộc hệ sinh thái QQ88, mang đến hệ thống trò chơi tương tác và nội dung số cho người dùng tại Việt Nam.",
+
   "publisher": {
     "@type": "Organization",
     "name": "QQ88"
   },
 
   "sameAs": [
-    "https://qq88.fun",
-    "https://qq88.cash",
-    "https://qq88.fan"
+    "https://qq88.fun"
   ],
 
   "brandSchema": "https://qq88com.github.io/qq88-entity/brand.json",
-  "entitySchema": "https://qq88com.github.io/qq88-entity/entity.json",
+
   "lastUpdate": "2025-12-04"
 }
