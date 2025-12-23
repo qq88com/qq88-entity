@@ -73,3 +73,5 @@ This repository provides:
 ## 📌 6. Contact & Maintainer
 Maintained by the **QQ88 Digital Reference Hub**  
 (More contact endpoints may be added later)
+## 📌 7. Canonical entity hub:
+https://qq88com.github.io/qq88-entity
